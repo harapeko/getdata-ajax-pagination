@@ -1,0 +1,15 @@
+{
+  "name": "getdata-ajax-pagination",
+  "author": "harapeko",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "casperjs": "^1.1.4",
+    "phantomjs": "^2.1.7",
+    "util": "^0.10.3"
+  },
+  "scripts": {
+    "getdata": "casperjs index.js"
+  }
+}
